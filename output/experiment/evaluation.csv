@@ -1,0 +1,4 @@
+﻿method,reference_chars,recognized_chars,detected_lines,CER,WER,runtime_seconds
+original,1033,1013,58,0.116,0.2397,11.13
+clahe,1033,1012,58,0.1081,0.2055,12.87
+adaptive_threshold,1033,1010,42,0.0608,0.2123,10.33
