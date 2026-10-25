@@ -197,11 +197,3 @@ Hasil ini belum dapat digeneralisasi ke semua dokumen peraturan karena pengujian
 3. PyMuPDF. (n.d.). *PyMuPDF Documentation*. https://pymupdf.readthedocs.io/
 4. Hugging Face. (n.d.). *Azzindani/ID_REG dataset*. https://huggingface.co/datasets/Azzindani/ID_REG
 
-> **Checklist sebelum pengumpulan**
->
-> - Ganti seluruh identitas dalam tanda kurung siku.
-> - Masukkan screenshot atau gambar hasil preprocessing bila diminta dosen.
-> - Pastikan tabel hasil sama dengan `evaluation.csv`.
-> - Verifikasi `reference.txt` dengan tampilan visual PDF dan jelaskan bahwa evaluasi awal memakai hasil ekstraksi otomatis.
-> - Tambahkan spesifikasi perangkat jika disyaratkan.
-> - Sesuaikan struktur dan gaya sitasi dengan pedoman kampus.
